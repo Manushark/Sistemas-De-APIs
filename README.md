@@ -1,5 +1,5 @@
 # Sistema de APIs 🚀
-  
+
 Este proyecto es una colección de ejercicios que interactúan con diversas APIs para obtener información en tiempo real. Desarrollado con PHP y Bulma para una interfaz moderna y responsiva.  
 
 ## 🚀 Tecnologías utilizadas  
@@ -15,6 +15,5 @@ Este proyecto es una colección de ejercicios que interactúan con diversas APIs
 
 ## 📂 Instalación  
 1. Clona este repositorio:  
-   ```bash
    git clone https://github.com/usuario/repo.git
    cd repo

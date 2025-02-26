@@ -43,7 +43,34 @@
       "src" => "ejercicio6.php",
       "color" => "is-danger"
     ),
- 
+    array(
+      "name" => "Ejercicio 7",
+      "description" => "Conversión de Monedas 💱",
+      "link" => "https://api.exchangerate-api.com/v4/latest/USD",
+      "src" => "ejercicio7.php",
+      "color" => "is-dark"
+    ),
+    array(
+      "name" => "Ejercicio 8",
+      "description" => "Generador de imágenes con IA 🖼️",
+      "link" => "https://source.unsplash.com/random/1080x1080",
+      "src" => "ejercicio8.php",
+      "color" => "is-light"
+    ),
+    array(
+      "name" => "Ejercicio 9",
+      "description" => "Datos de un país 🌍",
+      "link" => "https://restcountries.com/v3.1/name/dominican",
+      "src" => "ejercicio9.php",
+      "color" => "is-info"
+    ),
+    array(
+      "name" => "Ejercicio 10",
+      "description" => "Generador de chistes 🤡",
+      "link" => "https://official-joke-api.appspot.com/random_joke",
+      "src" => "ejercicio10.php",
+      "color" => "is-primary"
+    ),
   );
 
 
